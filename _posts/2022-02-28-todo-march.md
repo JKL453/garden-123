@@ -2,6 +2,7 @@
 layout: post
 title:  "März: Todos"
 date:   2022-02-28 12:22:54 +0100
+perma-link: /todo/
 categories: todo
 ---
 

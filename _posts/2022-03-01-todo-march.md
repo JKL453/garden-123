@@ -2,7 +2,6 @@
 layout: post
 title:  "März: Todos"
 date:   2022-03-01 12:22:54 +0100
-categories: todo
 ---
 
 Übersicht über anstehende Aufgaben im März 2022.

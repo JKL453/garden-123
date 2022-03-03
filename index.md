@@ -4,5 +4,6 @@
 
 layout: home
 title: Aktuelles
+#permalink: /home/
 ---
 

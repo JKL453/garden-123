@@ -4,4 +4,14 @@ title: "Termine"
 permalink: /dates/
 ---
 
-Hier werden bald wichtige Termine zu finden sein.
+Übersicht über einige Termine im Jahr 2022.
+
+**März**
+* Aussat Tomaten (Haus)
+* Aussat Zucchini (Haus)
+
+**April**
+* ...
+
+**Mai**
+* Aussat Kürbis (Haus)

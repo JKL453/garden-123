@@ -4,7 +4,17 @@ title: "Beete"
 permalink: /flowerbeds/
 ---
 
-Hier wird bald eine Übersicht über die Bepflanzung der Beete zu finden sein.
+Bepflanzung des Gartens - geplant für 2022:
 
-{% assign pdf-filepath = "/assets/pdf/flowerbeds.pdf" %}
+{% assign pdf-filepath = "/assets/pdf/flowerbeds-2021.pdf" %}
 <object data="{{ pdf-filepath | prepend: site.baseurl }}" width="750" height="535" type='application/pdf'></object>
+<br>
+
+Bepflanzung des Gartens - Stand Frühling 2021:
+
+{% assign pdf-filepath = "/assets/pdf/flowerbeds-2021.pdf" %}
+<object data="{{ pdf-filepath | prepend: site.baseurl }}" width="750" height="535" type='application/pdf'></object>
+
+
+
+

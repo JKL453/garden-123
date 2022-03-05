@@ -10,8 +10,7 @@ date:   2022-03-01 12:22:54 +0100
 
 __Vorziehen__
 
--   Tomaten
--   Zucchini
+-   [Tomaten][tomaten-pflanzen]
 
 __Hecken und Sträucher__
 
@@ -25,7 +24,7 @@ __Beete__
 -   [ ] &nbsp;          [Boden auflockern und Kompost darauf verteilen][boden-auflockern]  
         &nbsp;&emsp;    ([Grubber][grubber-bild] oder [Grabegabel][grabegabel-bild])
 
-
+[tomaten-pflanzen]: https://www.mein-schoener-garten.de/pflanzen/gemuse/tomaten
 [sommerflieder-schneiden]: https://www.mein-schoener-garten.de/gartenpraxis/ziergaerten/sommerflieder-schneiden-einfache-anleitung-8326
 [liguster-schneiden]:https://www.mein-schoener-garten.de/gartenpraxis/ziergaerten/liguster-schneiden-43441
 [liguster-duengen]: https://www.mein-schoener-garten.de/gartenpraxis/ziergaerten/liguster-richtig-duengen-35341

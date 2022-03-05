@@ -8,10 +8,9 @@ permalink: /dates/
 
 **März**
 * Aussat Tomaten (Haus)
-* Aussat Zucchini (Haus)
 
 **April**
-* ...
+* Aussat Zucchini (Haus)
 
 **Mai**
 * Aussat Kürbis (Haus)

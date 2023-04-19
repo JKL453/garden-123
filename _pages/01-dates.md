@@ -4,13 +4,16 @@ title: "Termine"
 permalink: /dates/
 ---
 
-Übersicht über einige Termine im Jahr 2022.
+# Garten-Agenda: Aussaat 
 
 **März**
-* Aussat Tomaten (Haus)
+* Aussat Tomaten (Fensterbank)
 
 **April**
-* Aussat Zucchini (Haus)
+* Aussat Zucchini (Fensterbank)
+* Paprika (Fensterbank)
+* Kartoffeln vorkeimen (Fensterbank)
 
 **Mai**
-* Aussat Kürbis (Haus)
+* Aussat Kürbis (Fensterbank)
+* **nach Eisheiligen**
